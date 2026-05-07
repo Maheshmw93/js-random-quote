@@ -3,7 +3,8 @@ const quotes = [
   'Practice makes perfect.',
   'Code every day.',
   'Small steps matter.',
-  'Consistency beats talent.'
+  'Consistency beats talent.',
+  "Build, don't just watch."
 ];
 
 function gen(){
